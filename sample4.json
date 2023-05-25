@@ -1,7 +1,7 @@
 {
 "Title":"How to build tables in Oracle 4",
 "pages":[
-    { "title":"Tutorial Introduction",
+    { "title":"Tutorial Introduction4",
     "text":"Tutorials are sets of instructions and queries that may be provided by your professor or others.",
     "scripts":[{
       "diagram": "canvas",
@@ -38,7 +38,7 @@
         "sql": "SELECT first_name\n ,last_name\n ,phone\n ,email\nFROM customer\nWHERE state = 'UT'\nORDER BY last_name, first_name"
       }]
   },
-  { "title":"Second Page",
+  { "title":"Second Page4",
   "text":"Tutorials are sets of instructions and queries that may be provided by your professor or others.",
   "scripts":[{
     "diagram": "canvas",
