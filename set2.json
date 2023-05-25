@@ -1,0 +1,15 @@
+{
+    "currentTutorial":0,  
+    "currentPage":0,  
+      "tutorials":[
+      { "title":"Sample Tutorial",
+        "text":"This is just a sample tutorial for development purposes",
+        "url":"https://roadsql.github.io/tutorials/sample.json"
+      },
+      { "title":"Sample Tutorial1",
+        "text":"This is just a sample tutorial for development purposes 1",
+        "url":"https://roadsql.github.io/tutorials/sample1.json"
+      }
+
+  ]
+  }
