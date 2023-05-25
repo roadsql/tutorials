@@ -1,6 +1,5 @@
 {
     "currentTutorial":0,  
-    "currentPage":0,  
       "tutorials":[
       { "title":"Sample Tutorial",
         "text":"This is just a sample tutorial for development purposes",
