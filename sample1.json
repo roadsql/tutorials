@@ -39,43 +39,44 @@
       }]
   },
   { "title":"Second Page1",
-  "text":"Tutorials are sets of instructions and queries that may be provided by your professor or others.",
-  "scripts":[{
-    "diagram": "canvas",
-    "filename": "artist",
-    "schema": "canvas",
-    "connection": "sql_book_connection",
-    "url": "",
-    "username": "",
-    "password": "",
-    "owner": "atlas-query",
-    "dataset": "canvas",
-    "databaseName": "canvas",
-    "engine": "oracle",
-    "note": "Here is the only script on the second page of the tutorial",
-    "textAfterQuery": "Ein before",
-    "textBeforeQuery": "Ein after",
-    "sql": "SELECT first_name\n ,last_name\n ,phone\n ,email\nFROM customer\nWHERE state = 'UT'\nORDER BY last_name, first_name"
+    "text":"Tutorials are sets of instructions and queries that may be provided by your professor or others.",
+    "scripts":[{
+      "diagram": "canvas",
+      "filename": "artist",
+      "schema": "canvas",
+      "connection": "sql_book_connection",
+      "url": "",
+      "username": "",
+      "password": "",
+      "owner": "atlas-query",
+      "dataset": "canvas",
+      "databaseName": "canvas",
+      "engine": "oracle",
+      "note": "Here is the only script on the second page of the tutorial",
+      "textAfterQuery": "Ein before",
+      "textBeforeQuery": "Ein after",
+      "sql": "SELECT first_name\n ,last_name\n ,phone\n ,email\nFROM customer\nWHERE state = 'UT'\nORDER BY last_name, first_name"
+    }]
   },
   { "title":"third Page1",
-  "text":"Tutorials are sets of instructions and queries that may be provided by your professor or others.",
-  "scripts":[{
-    "diagram": "canvas",
-    "filename": "artist",
-    "schema": "canvas",
-    "connection": "sql_book_connection",
-    "url": "",
-    "username": "",
-    "password": "",
-    "owner": "atlas-query",
-    "dataset": "canvas",
-    "databaseName": "canvas",
-    "engine": "oracle",
-    "note": "page 3",
-    "textAfterQuery": "Ein before",
-    "textBeforeQuery": "Ein after",
-    "sql": "SELECT first_name\n ,last_name\n ,phone\n ,email\nFROM customer\nWHERE state = 'UT'\nORDER BY last_name, first_name"
-  }]
-}
+    "text":"Tutorials are sets of instructions and queries that may be provided by your professor or others.",
+    "scripts":[{
+      "diagram": "canvas",
+      "filename": "artist",
+      "schema": "canvas",
+      "connection": "sql_book_connection",
+      "url": "",
+      "username": "",
+      "password": "",
+      "owner": "atlas-query",
+      "dataset": "canvas",
+      "databaseName": "canvas",
+      "engine": "oracle",
+      "note": "page 1 query 1 note",
+      "textAfterQuery": "Ein before",
+      "textBeforeQuery": "Ein after",
+      "sql": "SELECT first_name\n ,last_name\n ,phone\n ,email\nFROM customer\nWHERE state = 'UT'\nORDER BY last_name, first_name"
+    }]
+  }
 ]
 }
