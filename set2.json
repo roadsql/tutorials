@@ -1,11 +1,11 @@
 {
     "currentTutorial":0,  
       "tutorials":[
-      { "title":"Sample Tutorial",
+      { "title":"How to build tables in Oracle",
         "text":"This is just a sample tutorial for development purposes",
         "url":"https://roadsql.github.io/tutorials/sample.json"
       },
-      { "title":"Sample Tutorial1",
+      { "title":"How to build tables in Oracle 1",
         "text":"This is just a sample tutorial for development purposes 1",
         "url":"https://roadsql.github.io/tutorials/sample1.json"
       }
