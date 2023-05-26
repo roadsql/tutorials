@@ -78,6 +78,10 @@
       "textBeforeQuery": "Ein after",
       "sql": "SELECT first_name\n ,last_name\n ,phone\n ,email\nFROM customer\nWHERE state = 'UT'\nORDER BY last_name, first_name"
     }]
+  },
+  { "title":"Fourth Page",
+    "text":"This page has text only",
+    "scripts":[]
   }
 ]
 }
